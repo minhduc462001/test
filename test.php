@@ -14,6 +14,7 @@
   echo 'alert(message successfully sent)';  //not showing an alert box.
   echo '</script>';
   exit;
+    //shvdshgdhfds
 ?>
 </body>
 </html>
